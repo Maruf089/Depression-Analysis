@@ -7,7 +7,7 @@ ANN gives 76% accuracy in test set and 81% highest accuracy in validation set wi
 
 Diceion Tree Classifier gives 59% accuracy and weighted average f1-score.
 
-![](DT.PNG).
+![](DT.PNG)
 
 With min_support=0.1, min_confidence=0.6, min_lift=9, min_length=9 Appriori give 1406 rules.
 
@@ -15,5 +15,5 @@ With K-Means Clusturing I got highest 30.32% score in prediction.
 
 In Linear Regression I calculate mean squarer error.
 
-![](Linear Regression.PNG)
+![](LinearRegression.PNG)
 
